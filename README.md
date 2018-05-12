@@ -1,2 +1,2 @@
 # iLikeClassic
-Adidas hackaton 2018
+adidas hackaton 2018
